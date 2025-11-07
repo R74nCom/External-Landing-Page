@@ -1,4 +1,2 @@
-# r74ncom.github.io
-GitHub Pages index page for R74n.
-
-Much of our GitHub-specific business will be here.
+# External-Landing-Page
+Index page template for R74n on static website hosts.
